@@ -1,0 +1,8 @@
+name: ClearInventory
+version: 0.2
+author: Tempoo50
+main: de.clearinv.main.ClearInventory
+
+commands:
+   clear:
+      description:
